@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/using-tailwindcss-G6kps_pVF)
 - Live Site URL: [Live site](https://stats-preview-card-plum.vercel.app/)
 
 ## My process
